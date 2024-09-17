@@ -1,0 +1,2 @@
+This project focuses on analyzing data from the top universities worldwide to explore various trends in rankings, research output, faculty, and student demographics.
+The goal is to provide meaningful insights using data science techniques like cleaning, visualization, and statistical analysis.
